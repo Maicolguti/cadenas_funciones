@@ -75,4 +75,6 @@ Comprueba si una palabra o frase es un palíndromo (se lee igual al derecho y al
 Ignora espacios, signos de puntuación y mayúsculas/minúsculas.
 
 Limpia la cadena dejando solo letras y números, luego compara con su reverso.
-📘 Uso: escribir una frase y el programa dirá si es palíndroma o no
+ Uso: escribir una frase y el programa dirá si es palíndroma o no
+
+Link presentaciòn: https://www.canva.com/design/DAG3IhcDKnY/MraB4I3ZqVY4QOl1ldHT3Q/edit?utm_content=DAG3IhcDKnY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
